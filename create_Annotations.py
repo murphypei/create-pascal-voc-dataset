@@ -8,12 +8,17 @@ import os
 
 from PIL import Image
 
+'''
+根据下面的路径和文件，将output.txt制作成xml的标注
+'''
+
 # xml文件规范定义
 _INDENT = ' ' * 4
 _NEW_LINE = '\n'
-_FOLDER_NODE = 'person'
+_FOLDER_NODE = 'VOC2007'
 _ROOT_NODE = 'annotation'
-_DATABASE_NAME = 'Caltech'
+_DATABASE_NAME = 'INRIA'
+_CLASS = 'person'
 _ANNOTATION = 'PASCAL VOC2007'
 _AUTHOR = 'Peic'
 
@@ -22,9 +27,8 @@ _DIFFICULT = '0'
 _TRUNCATED = '0'
 _POSE = 'Unspecified'
 
-_IMAGE_PATH = 'img\\'
-_TXT_PATH = 'img\\output.txt'
-_IMAGE_COPY_PATH = 'JPEGImages'
+_IMAGE_PATH = 'JPEGImages'
+_TXT_PATH = 'output.txt'
 _ANNOTATION_SAVE_PATH = 'Annotations'
 
 _IMAGE_CHANNEL = 3
@@ -50,8 +54,6 @@ def createChildNode(doc, tag, attr, parent_node):
     child_node = createElementNode(doc, tag, attr)
     parent_node.appendChild(child_node)
 
-
-
 # object节点比较特殊
 def createObjectNode(doc, attrs):
     object_node = doc.createElement('object')
@@ -68,7 +70,6 @@ def createObjectNode(doc, attrs):
     object_node.appendChild(bndbox_node)
 
     return object_node
-
 
 # 将documentElement写入XML文件中
 def writeXMLFile(doc, filename):
@@ -90,7 +91,6 @@ def writeXMLFile(doc, filename):
     #fout.write(new_lines)
     fin.close()
     fout.close()
-
 
 # 创建XML文档并写入节点信息
 def createXMLFile(attrs, width, height, filename):
@@ -141,8 +141,6 @@ def createXMLFile(attrs, width, height, filename):
     # 写入文件
     writeXMLFile(doc, filename)
 
-
-
 if __name__ == "__main__":
 
     ouput_file = open(_TXT_PATH)
@@ -150,8 +148,6 @@ if __name__ == "__main__":
 
     if not os.path.exists(_ANNOTATION_SAVE_PATH):
         os.mkdir(_ANNOTATION_SAVE_PATH)
-    if not os.path.exists(_IMAGE_COPY_PATH):
-        os.mkdir(_IMAGE_COPY_PATH)
 
     lines = ouput_file.readlines()
     for line in lines:
@@ -160,7 +156,7 @@ if __name__ == "__main__":
         print
         attrs = dict()
         attrs['name'] = array[0]
-        attrs['classification'] = 'face'
+        attrs['classification'] = _CLASS
         attrs['xmin'] = array[1]
         attrs['ymin'] = array[2]
         attrs['xmax'] = array[3]
@@ -187,11 +183,9 @@ if __name__ == "__main__":
             # 如果XML文件不存在, 创建文件并写入节点信息
             img_name = attrs['name']
             img_path = os.path.join(current_dirpath, _IMAGE_PATH, img_name)
+            # 获取图片信息
             img = Image.open(img_path)
             width, height = img.size
-
-            # 将图片保存在JPEGImages文件夹中一份
-            img.save(os.path.join(current_dirpath, _IMAGE_COPY_PATH, img_name), 'jpeg')
             img.close()
             
             # 创建XML文件
