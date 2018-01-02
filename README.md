@@ -1,5 +1,7 @@
 ## VOC2007数据集制作(以INRIA数据集为例)
 
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+
 **使用**
 
 1. 首先在`create_JPEGImages.py`中设置好：
