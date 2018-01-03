@@ -1,6 +1,6 @@
 ## VOC2007数据集制作(以INRIA数据集为例)
 
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **使用**
 
