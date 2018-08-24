@@ -20,7 +20,7 @@ Refactor all the project ! Now it's more efficient and the structure is more cle
 
 3. Edit your dataset config and run file；
    
-    * Check the `examples\inria_example.py` to understand how to call the `PASCALVOC07` class
+    * Check the `examples/inria_example.py` to understand how to call the `PASCALVOC07` class
     
     * Config your own information in your pascal voc dataset
     
@@ -33,7 +33,7 @@ Refactor all the project ! Now it's more efficient and the structure is more cle
 
 ```sh
 python preprocess/inria_preprocess.py /path/to/INRIAPerson
-python examples/inria_example.py /path/to/INRIAPerson
+python examples/inria_example.py /path/to/INRIAPerson /path/to/output
 ```
 
 Anything can be send to issues and forgive my poor English...
