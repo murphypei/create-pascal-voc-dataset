@@ -1,23 +1,37 @@
-## VOC2007数据集制作(以INRIA数据集为例)
+## CREATE PASCAL VOC 2007 DATASET
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+Refactor all the project ! Now it's more efficient and the structure is more clear. 
 
-**使用**
+### Usage
 
-1. 首先在`create_JPEGImages.py`中设置好：
+1. Get your dataset annotations file, parse and save it to two files `trainval_annotations.txt` and `test_annotations.txt`, file name doesn't matter.
 
-    * `TRAIN_ANNO` : Train数据的标注文件夹路径 
-    * `TEST_ANNO` : Test数据的标注文件夹路径 
-    * `ORIGIN_IMAGES` : 图片的文件夹路径 
+2. Your annotations file must have the format like this:
 
-* 使用`create_JPEGImages.py`来遍历，生成`JPEGImages`文件夹，图片名称为VOC2007的6位编号，JPEG格式。将提取的标注信息保存在`output.txt`文件中
+    `image_full_path object1_class x1_min y1_min x1_max y1_max object2_class x2_min y2_min x2_max y2_max...`
+    
+    * You can check `examples/Train_annotation.txt` file to understand the annotation format more clearly, this is the INRIA annotations file after my processing, your annotations file should be like this.
+    
+    * You should write your own dataset annotation process program, I just write for INRIA dataset and you can reference it in `preprocess/inria_preprocess.py`.
+    
+    * If I have more time, I will write more process program, you can send your requires in issues.
 
-2. 使用`create_Annotations.py`文件，利用1中生成`output.txt`标注信息来生成VOC2007格式的`xml`文件，保存在`JPEGImages`文件夹中
-3. 使用`create_ImageSets.py`来生成`ImagesSets`文件夹
-4. 将生成的`JPEGImages`，`JPEGImages`，`ImagesSets`替换掉VOC2007中的五个文件夹，制作完成
+3. Edit your dataset config and run file；
+   
+    * Check the `examples\inria_example.py` to understand how to call the `PASCALVOC07` class
+    
+    * Config your own information in your pascal voc dataset
+    
+    * Set the dataset directory, annotations file and output directory, then just run `build`, wait for your own pascal voc dataset.
 
 
-**注意**
+### Example
 
-* 不同数据集标注格式、路径均不一样，需要适当修改
-* 不同数据集的`trainval.txt`和`test.txt`也不一样，需要自己设置
+* I have writen an example of the INRIA dataset:
+
+```sh
+python preprocess/inria_preprocess.py /path/to/INRIAPerson
+python examples/inria_example.py /path/to/INRIAPerson
+```
+
+Anything can be send to issues and forgive my poor English...

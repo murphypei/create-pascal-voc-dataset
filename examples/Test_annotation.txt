@@ -1,0 +1,288 @@
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_061.png PASperson 280 45 429 441
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_194.png PASperson 258 187 325 358 PASperson 349 176 408 353 PASperson 398 175 460 338 PASperson 312 197 356 355
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_350.png PASperson 144 77 240 469 PASperson 40 79 146 473 PASperson 275 95 397 463 PASperson 510 113 581 439
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_347.png PASperson 254 118 361 398 PASperson 423 162 516 365 PASperson 360 141 385 219
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_136.png PASperson 382 153 455 368 PASperson 326 159 393 379 PASperson 202 170 277 359 PASperson 111 165 186 359
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_057.png PASperson 243 47 361 397
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_063.png PASperson 313 173 405 414
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_165.png PASperson 230 37 383 364
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_088.png PASperson 157 128 296 551 PASperson 352 138 408 327 PASperson 310 135 370 318 PASperson 402 147 454 317
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_153.png PASperson 386 145 466 416
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_096.png PASperson 370 43 445 266 PASperson 339 67 384 254 PASperson 192 97 341 536
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_046.png PASperson 202 44 354 369
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_090.png PASperson 137 57 229 410
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_162.png PASperson 230 55 389 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_190.png PASperson 211 144 308 370 PASperson 283 127 390 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_303.png PASperson 371 134 470 431 PASperson 244 146 353 476 PASperson 144 149 223 390 PASperson 476 121 524 282 PASperson 202 127 265 346 PASperson 112 114 179 331
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_314.png PASperson 183 128 249 395 PASperson 480 111 589 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001555.png PASperson 305 350 370 565 PASperson 155 173 227 384 PASperson 451 355 535 579 PASperson 747 357 814 533 PASperson 527 62 576 193
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_058.png PASperson 182 49 275 402
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_071.png PASperson 197 71 314 429
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001683.png PASperson 216 170 316 507 PASperson 350 150 451 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_132.png PASperson 380 182 433 327 PASperson 455 177 512 330 PASperson 286 182 342 332 PASperson 234 181 283 324 PASperson 196 182 253 329 PASperson 98 207 154 336 PASperson 271 196 307 321
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_045.png PASperson 180 35 351 458
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_218.png PASperson 217 103 343 475 PASperson 333 134 416 394
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_282.png PASperson 253 136 350 422 PASperson 82 139 131 232
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_104.png PASperson 264 60 480 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_189.png PASperson 260 121 375 429 PASperson 353 132 434 411
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_086.png PASperson 278 56 432 441
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001604.png PASperson 317 205 412 527
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_101.png PASperson 203 49 387 381
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_093.png PASperson 254 138 388 530 PASperson 102 136 226 519
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_087.png PASperson 269 21 429 432
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_161.png PASperson 233 49 383 418
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000009.png PASperson 303 68 478 655
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_036.png PASperson 191 83 371 586
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_207.png PASperson 305 168 361 324 PASperson 185 173 235 316 PASperson 279 227 323 333 PASperson 246 186 300 298 PASperson 417 181 482 411 PASperson 98 181 145 331
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_217.png PASperson 238 214 328 445 PASperson 52 192 112 394 PASperson 157 195 217 378 PASperson 432 182 509 389 PASperson 371 194 426 392
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000005.png PASperson 171 72 260 321 PASperson 35 60 155 320
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_011.png PASperson 162 155 305 503
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001533.png PASperson 755 325 847 645 PASperson 638 340 707 538 PASperson 405 343 474 538 PASperson 213 342 285 554 PASperson 964 339 1015 500
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_064.png PASperson 210 37 422 406
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_090.png PASperson 225 164 322 528
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_067.png PASperson 230 51 381 372
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_120.png PASperson 242 163 355 439 PASperson 154 180 273 463
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_160.png PASperson 264 39 423 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_186.png PASperson 247 172 334 389 PASperson 337 162 414 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_236.png PASperson 312 138 396 406 PASperson 206 153 264 321 PASperson 93 141 157 312 PASperson 146 184 197 321 PASperson 442 156 495 337 PASperson 482 170 524 358 PASperson 530 153 607 363 PASperson 98 208 142 320
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001654.png PASperson 304 222 461 696
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_188.png PASperson 262 170 328 341 PASperson 208 179 268 340 PASperson 352 182 404 356 PASperson 413 188 474 372 PASperson 461 218 509 362 PASperson 2 194 40 279
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_249.png PASperson 216 182 292 422 PASperson 282 178 356 419 PASperson 414 169 488 414 PASperson 468 168 538 415
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_096.png PASperson 201 41 335 388
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_081.png PASperson 280 40 421 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001574.png PASperson 203 212 296 487
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_054.png PASperson 208 54 371 425
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_141.png PASperson 221 52 334 427
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_014.png PASperson 159 115 324 569 PASperson 36 109 75 221
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_027.png PASperson 299 136 380 325 PASperson 238 119 308 326
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_134.png PASperson 219 124 345 444 PASperson 327 107 447 439 PASperson 485 91 523 201 PASperson 416 89 457 194 PASperson 140 102 163 171
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_029.png PASperson 571 120 610 265 PASperson 204 153 304 468
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001634.png PASperson 220 171 319 459
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000007.png PASperson 530 113 742 581
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000002.png PASperson 110 80 214 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_076.png PASperson 264 133 386 437
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_251.png PASperson 323 78 469 448 PASperson 206 77 331 434 PASperson 473 91 524 270
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_085.png PASperson 233 157 374 559 PASperson 139 176 228 498
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_008.png PASperson 166 114 324 569
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_044.png PASperson 278 71 403 375
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_122.png PASperson 207 224 283 462
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_126.png PASperson 274 139 373 406 PASperson 355 140 454 412 PASperson 106 134 175 292 PASperson 528 149 558 231
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_053.png PASperson 291 121 398 426
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_028.png PASperson 144 68 322 635
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_089.png PASperson 181 169 304 484
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000026.png PASperson 135 274 239 500 PASperson 332 151 467 446 PASperson 512 168 610 507 PASperson 709 93 836 531
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_085.png PASperson 266 70 430 476
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_107.png PASperson 209 37 412 447
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_337.png PASperson 312 181 386 397 PASperson 186 145 244 354 PASperson 73 138 134 315 PASperson 143 165 188 312 PASperson 253 154 343 353
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_335.png PASperson 263 158 359 378 PASperson 233 159 263 273 PASperson 172 144 227 274
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000001.png PASperson 142 66 340 646
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_107.png PASperson 220 107 404 604 PASperson 58 198 207 598
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_073.png PASperson 287 201 410 423
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_109.png PASperson 187 38 372 379
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001659.png PASperson 636 228 711 468
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_099.png PASperson 209 9 411 417
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_038.png PASperson 307 131 376 330 PASperson 70 125 142 276 PASperson 449 118 620 460 PASperson 273 126 327 289
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_105.png PASperson 240 43 416 385
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000018.png PASperson 254 64 460 602
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001682.png PASperson 203 174 287 470 PASperson 283 194 383 464 PASperson 553 164 655 462 PASperson 696 167 768 400 PASperson 779 169 872 426
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001670.png PASperson 769 232 905 571 PASperson 580 252 676 555 PASperson 417 251 521 550 PASperson 178 238 293 540 PASperson 292 226 422 547
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000012.png PASperson 151 143 373 626
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_070.png PASperson 217 138 313 413
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_035.png PASperson 172 142 248 417 PASperson 264 131 344 410
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_030.png PASperson 116 54 277 633
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001544.png PASperson 385 262 535 776 PASperson 229 221 381 793
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_290.png PASperson 293 152 427 438
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001566.png PASperson 105 131 226 434 PASperson 233 292 302 438
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_149.png PASperson 204 176 304 446
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_097.png PASperson 285 19 459 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_188.png PASperson 336 184 408 365 PASperson 288 188 327 278
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001716.png PASperson 222 257 306 557 PASperson 46 240 157 542
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_104.png PASperson 153 198 276 514 PASperson 277 208 387 505 PASperson 270 179 307 260
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_066.png PASperson 242 40 354 397
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001607.png PASperson 302 163 394 501 PASperson 200 150 281 507 PASperson 414 148 471 395 PASperson 501 123 573 397 PASperson 570 146 619 386 PASperson 632 131 690 393 PASperson 695 145 747 399 PASperson 746 142 797 402 PASperson 797 131 887 406 PASperson 997 243 1063 411
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_029.png PASperson 80 85 253 602
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_193.png PASperson 176 147 275 427 PASperson 322 158 411 382 PASperson 560 160 611 281 PASperson 424 188 477 295
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_159.png PASperson 203 185 258 334 PASperson 262 181 311 321 PASperson 303 156 377 346 PASperson 369 179 432 341 PASperson 445 169 511 320
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_316.png PASperson 323 193 422 475 PASperson 279 210 350 456
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000004.png PASperson 141 53 239 347
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001660.png PASperson 305 312 418 671
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_190.png PASperson 259 145 334 367 PASperson 121 126 211 362 PASperson 348 140 473 418 PASperson 427 123 525 366
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_250.png PASperson 221 102 344 460 PASperson 369 100 465 408 PASperson 125 98 209 406
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001676.png PASperson 612 376 731 775 PASperson 787 429 903 768 PASperson 419 413 563 689 PASperson 244 396 385 767 PASperson 210 202 323 557 PASperson 949 477 1040 779 PASperson 883 556 962 811
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001520.png PASperson 486 222 653 765 PASperson 292 251 425 729
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_065.png PASperson 205 36 323 318
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_323.png PASperson 251 107 384 419 PASperson 130 77 260 417
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_163.png PASperson 163 35 315 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_306.png PASperson 254 147 358 428 PASperson 155 136 252 457 PASperson 424 165 456 256
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_028.png PASperson 474 117 521 237 PASperson 443 126 473 227 PASperson 253 135 358 420 PASperson 332 123 363 189 PASperson 378 116 401 176 PASperson 394 112 422 173
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000604.png PASperson 155 65 224 306 PASperson 288 44 374 286 PASperson 79 56 156 307
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_007.png PASperson 139 107 244 480
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_052.png PASperson 293 114 363 438
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_010.png PASperson 212 151 304 566 PASperson 40 241 82 326
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_062.png PASperson 387 154 507 428
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_034.png PASperson 116 53 290 630
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_255.png PASperson 215 149 305 389 PASperson 406 158 479 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001602.png PASperson 294 334 450 878
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001704.png PASperson 444 277 601 794 PASperson 102 315 228 785 PASperson 800 78 844 219
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001715.png PASperson 393 259 509 647 PASperson 476 212 588 672
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_051.png PASperson 282 104 405 436
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_032.png PASperson 152 54 332 631
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001631.png PASperson 283 264 352 471 PASperson 196 273 256 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001725.png PASperson 201 207 254 394 PASperson 173 211 219 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_098.png PASperson 195 12 410 424
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_038.png PASperson 217 200 346 534
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_127.png PASperson 333 78 451 402 PASperson 242 113 334 402 PASperson 125 86 155 165 PASperson 94 87 121 160 PASperson 150 91 176 165
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001722.png PASperson 244 280 394 802 PASperson 134 345 267 839
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_053.png PASperson 249 20 366 449
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_075.png PASperson 262 183 337 355
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_164.png PASperson 247 148 340 390
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_089.png PASperson 208 50 360 391
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_083.png PASperson 237 33 394 457
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_072.png PASperson 384 46 494 414
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_095.png PASperson 150 98 333 578 PASperson 336 123 407 301
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001688.png PASperson 598 177 767 898 PASperson 966 294 1028 523
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_198.png PASperson 183 82 305 446 PASperson 318 103 429 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_200.png PASperson 75 218 113 351 PASperson 102 195 145 338 PASperson 171 196 210 342 PASperson 189 201 230 344 PASperson 221 203 267 351 PASperson 247 197 299 355 PASperson 303 197 350 354 PASperson 360 210 414 351 PASperson 414 195 465 351 PASperson 445 206 492 345 PASperson 329 212 373 343 PASperson 477 218 524 350 PASperson 512 195 557 292 PASperson 556 198 602 295 PASperson 597 196 637 307 PASperson 140 197 175 330
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_040.png PASperson 172 152 309 490
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000008.png PASperson 475 68 621 709
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000023.png PASperson 467 80 648 565
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_084.png PASperson 285 51 429 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000017.png PASperson 513 63 684 718
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_177.png PASperson 69 128 289 597
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_056.png PASperson 291 37 433 390
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_033.png PASperson 142 119 312 635
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000003.png PASperson 316 37 434 440
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_189.png PASperson 224 90 385 470
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001546.png PASperson 546 202 630 647 PASperson 414 213 547 657
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_065.png PASperson 261 125 352 456
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_135.png PASperson 319 141 389 393 PASperson 257 157 321 396 PASperson 172 142 262 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_092.png PASperson 229 35 407 362
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001684.png PASperson 244 98 306 232
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000016.png PASperson 581 83 755 662
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_204.png PASperson 89 70 181 318 PASperson 235 160 324 393 PASperson 321 98 464 407 PASperson 503 95 566 281 PASperson 447 103 489 215 PASperson 559 121 636 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001653.png PASperson 331 202 436 497
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_095.png PASperson 179 52 315 400
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_206.png PASperson 307 178 397 449
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001511.png PASperson 304 261 455 761
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_058.png PASperson 319 132 398 380
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_063.png PASperson 242 44 432 435
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001658.png PASperson 374 189 434 378 PASperson 304 185 366 385 PASperson 234 192 293 379
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_103.png PASperson 275 31 444 371
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_133.png PASperson 255 118 355 402 PASperson 351 141 430 405
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_161.png PASperson 271 103 387 439
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_112.png PASperson 190 0 381 370
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_093.png PASperson 245 42 372 377
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_114.png PASperson 235 46 394 452
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_071.png PASperson 262 51 391 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001545.png PASperson 425 225 555 701
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_012.png PASperson 212 198 280 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001724.png PASperson 215 152 276 338 PASperson 80 156 154 438 PASperson 156 69 182 141 PASperson 127 70 155 133
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_102.png PASperson 236 35 358 415
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_164.png PASperson 215 37 390 444
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001639.png PASperson 549 177 710 717 PASperson 91 219 284 772 PASperson 759 199 959 791
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000025.png PASperson 294 75 530 663
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001501.png PASperson 250 151 299 294 PASperson 215 354 274 466 PASperson 568 320 607 433 PASperson 829 180 881 321
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_026.png PASperson 158 51 336 635
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_318.png PASperson 212 109 299 368 PASperson 304 124 369 351
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_050.png PASperson 253 34 446 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_110.png PASperson 272 2 407 385
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_230.png PASperson 412 127 524 449 PASperson 251 124 375 440 PASperson 146 135 219 322 PASperson 115 153 142 238 PASperson 228 140 259 234
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_077.png PASperson 376 25 465 342
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_064.png PASperson 252 131 357 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001638.png PASperson 609 287 752 789 PASperson 439 318 591 790 PASperson 810 275 902 704 PASperson 761 293 817 465
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001573.png PASperson 238 277 306 562 PASperson 321 292 407 561 PASperson 589 259 672 560 PASperson 791 271 901 562 PASperson 510 267 587 538
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_037.png PASperson 230 229 321 539
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_087.png PASperson 226 187 339 551
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_100.png PASperson 223 10 395 374
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_248.png PASperson 256 128 380 433 PASperson 370 174 485 432
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_059.png PASperson 259 52 358 403
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001531.png PASperson 233 220 354 536 PASperson 24 233 95 420
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001664.png PASperson 671 323 723 448 PASperson 637 324 683 449 PASperson 271 312 330 472 PASperson 229 313 292 479
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_039.png PASperson 196 232 270 413
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_246.png PASperson 277 89 404 458 PASperson 193 26 296 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001706.png PASperson 740 105 961 893
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_210.png PASperson 256 155 333 398 PASperson 331 142 408 394 PASperson 473 139 524 259
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001514.png PASperson 367 246 467 629 PASperson 291 234 381 479 PASperson 533 258 663 645
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_094.png PASperson 173 127 336 567
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_052.png PASperson 265 29 409 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_082.png PASperson 299 31 434 418
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000024.png PASperson 184 111 346 616
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000006.png PASperson 145 91 390 626
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_136.png PASperson 322 130 401 384 PASperson 219 142 315 395
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000020.png PASperson 261 71 386 505
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_113.png PASperson 180 1 354 394
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_106.png PASperson 239 47 416 398
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_048.png PASperson 212 47 328 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_212.png PASperson 302 166 366 356
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_108.png PASperson 189 5 406 371
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001723.png PASperson 373 181 453 430
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001593.png PASperson 326 241 378 427 PASperson 406 218 457 431 PASperson 488 223 556 446 PASperson 246 241 303 423 PASperson 624 229 690 437
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_062.png PASperson 271 40 402 428
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_015.png PASperson 200 191 284 398
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_272.png PASperson 41 66 170 471 PASperson 182 59 275 472 PASperson 298 49 440 468 PASperson 441 41 550 439
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001661.png PASperson 426 239 526 584 PASperson 278 240 486 593
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000013.png PASperson 194 118 363 626
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_140.png PASperson 250 146 339 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_059.png PASperson 305 127 396 411
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001522.png PASperson 559 217 730 795 PASperson 928 175 975 373 PASperson 978 181 1020 338
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_079.png PASperson 287 51 409 449
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_280.png PASperson 245 162 357 404 PASperson 334 145 400 334 PASperson 457 158 504 304 PASperson 498 151 548 302
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_091.png PASperson 164 35 366 385
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_222.png PASperson 170 84 265 451 PASperson 402 69 503 441 PASperson 324 80 395 283
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001633.png PASperson 807 381 895 660 PASperson 334 315 447 592 PASperson 905 297 985 581
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001718.png PASperson 503 359 593 570 PASperson 617 381 717 681 PASperson 829 399 918 688 PASperson 913 388 982 575
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_092.png PASperson 192 123 327 534
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_088.png PASperson 301 53 443 449
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_336.png PASperson 367 104 460 376 PASperson 280 128 382 376 PASperson 121 126 152 222 PASperson 74 133 104 208
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_105.png PASperson 216 125 356 503 PASperson 113 124 235 491
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_056.png PASperson 297 76 415 434
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_138.png PASperson 175 72 303 373 PASperson 338 63 435 368 PASperson 487 45 564 372
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_051.png PASperson 267 80 399 417
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_043.png PASperson 311 39 412 388
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_191.png PASperson 402 172 472 387 PASperson 475 179 546 366 PASperson 328 184 391 363 PASperson 219 173 264 296 PASperson 184 181 220 298 PASperson 263 201 305 293
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_055.png PASperson 273 144 389 470
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_317.png PASperson 324 147 404 385 PASperson 190 160 296 395 PASperson 180 137 215 216
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001590.png PASperson 708 142 950 906
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_006.png PASperson 198 61 331 404 PASperson 88 49 132 155
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_100.png PASperson 141 222 246 474 PASperson 323 225 400 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_042.png PASperson 299 46 418 397
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000027.png PASperson 429 40 636 666 PASperson 65 41 219 602
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_060.png PASperson 244 33 381 407
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_115.png PASperson 266 133 373 557 PASperson 42 79 178 578 PASperson 150 103 253 526
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_247.png PASperson 258 144 316 386 PASperson 317 153 396 375
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_181.png PASperson 250 180 327 405 PASperson 317 184 408 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_009.png PASperson 173 74 322 598
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_073.png PASperson 233 47 333 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001504.png PASperson 258 281 324 457 PASperson 339 281 400 459
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_263.png PASperson 284 134 381 451 PASperson 172 127 283 459 PASperson 63 129 166 422 PASperson 8 188 60 342 PASperson 345 159 428 404
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_013.png PASperson 190 218 330 524
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000019.png PASperson 413 82 624 667
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_004.png PASperson 126 19 337 636
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001549.png PASperson 533 248 628 582
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_047.png PASperson 292 56 392 404
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001512.png PASperson 519 276 676 676 PASperson 310 261 450 597 PASperson 853 277 994 769
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_076.png PASperson 319 40 411 385 PASperson 144 25 219 254
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_315.png PASperson 335 204 411 394 PASperson 473 188 524 330 PASperson 518 186 577 333
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_325.png PASperson 218 120 332 400 PASperson 126 117 235 388
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_137.png PASperson 305 85 365 301 PASperson 209 92 284 304 PASperson 152 100 215 303 PASperson 108 65 188 287 PASperson 380 124 429 293
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001521.png PASperson 194 176 256 418 PASperson 262 182 314 375 PASperson 372 181 433 368 PASperson 419 159 475 344 PASperson 492 170 558 382 PASperson 550 181 605 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_265.png PASperson 70 76 168 391 PASperson 301 189 379 393 PASperson 390 168 469 394 PASperson 490 178 565 394
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000021.png PASperson 289 49 469 533
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_094.png PASperson 237 51 373 394
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_216.png PASperson 352 126 433 458 PASperson 214 137 307 389
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_099.png PASperson 194 128 334 558
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001719.png PASperson 360 379 458 741 PASperson 454 368 545 742 PASperson 753 424 849 736 PASperson 855 444 960 746 PASperson 946 451 1045 746 PASperson 148 422 179 521 PASperson 166 419 206 517
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop001641.png PASperson 601 228 713 731 PASperson 538 185 633 718 PASperson 275 224 432 690
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/crop_000015.png PASperson 190 104 479 647
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_080.png PASperson 378 41 518 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_111.png PASperson 200 16 467 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_098.png PASperson 287 98 451 536 PASperson 41 127 153 506 PASperson 127 145 239 511
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_070.png PASperson 238 53 345 412
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_049.png PASperson 297 36 418 395
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_293.png PASperson 257 103 367 403 PASperson 171 112 228 259 PASperson 114 118 167 260
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_159.png PASperson 258 61 400 452
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_014.png PASperson 301 73 438 375 PASperson 545 98 578 185
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_012.png PASperson 213 83 304 429 PASperson 344 81 450 431 PASperson 5 71 67 227
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_069.png PASperson 289 38 404 453
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_and_bike_055.png PASperson 223 65 346 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Test/pos/person_118.png PASperson 184 208 252 390 PASperson 133 216 191 388

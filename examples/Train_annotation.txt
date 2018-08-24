@@ -1,0 +1,614 @@
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001138.png PASperson 230 235 364 660 PASperson 315 237 470 692
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001126.png PASperson 201 181 308 457 PASperson 311 217 376 449 PASperson 364 211 439 439 PASperson 428 210 491 442 PASperson 478 207 549 437 PASperson 553 213 633 437
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001635.png PASperson 417 404 546 853 PASperson 186 284 384 852 PASperson 603 270 659 450 PASperson 666 263 714 449 PASperson 71 370 148 623
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001710.png PASperson 150 193 208 407 PASperson 211 193 260 352 PASperson 354 190 387 288
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_101.png PASperson 375 219 446 421 PASperson 201 184 290 481
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001700.png PASperson 158 274 250 633 PASperson 244 244 379 617
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001685.png PASperson 65 95 147 322
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001831.png PASperson 118 119 176 258
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001673.png PASperson 227 174 335 479
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_129.png PASperson 202 191 252 347 PASperson 479 185 534 334 PASperson 409 192 442 308 PASperson 287 189 327 304 PASperson 131 196 174 322 PASperson 349 191 377 261
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_207.png PASperson 302 114 392 314
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001675.png PASperson 213 302 324 601
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001207.png PASperson 161 105 241 310
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001583.png PASperson 120 216 273 832 PASperson 253 258 434 808
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001003.png PASperson 293 117 478 712 PASperson 443 62 660 711
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001819.png PASperson 135 103 179 204
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001061.png PASperson 291 276 441 678 PASperson 511 363 561 495
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001260.png PASperson 195 184 357 622 PASperson 256 189 406 605
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001084.png PASperson 214 301 394 973
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001510.png PASperson 215 220 390 776
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001238.png PASperson 169 139 262 476
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001553.png PASperson 224 180 370 573
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_273.png PASperson 483 172 537 322 PASperson 528 176 582 315 PASperson 302 195 367 470
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001596.png PASperson 214 237 336 794 PASperson 313 231 467 800 PASperson 648 246 843 702
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001275.png PASperson 172 178 324 531
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001681.png PASperson 175 222 287 609
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_296.png PASperson 227 123 318 450
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_287.png PASperson 257 150 354 402 PASperson 448 140 500 319
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001008.png PASperson 212 286 265 413 PASperson 355 322 416 443
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001680.png PASperson 151 185 212 378 PASperson 230 189 289 326
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001254.png PASperson 42 142 195 763
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001026.png PASperson 295 263 504 689 PASperson 493 305 650 659 PASperson 641 340 691 467
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001557.png PASperson 148 257 197 407
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_130.png PASperson 280 183 334 323 PASperson 347 184 405 332
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001547.png PASperson 97 100 120 147
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_232.png PASperson 194 13 358 452 PASperson 363 68 476 457 PASperson 42 78 103 234
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_284.png PASperson 237 144 367 369 PASperson 560 118 604 222
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001537.png PASperson 433 226 470 355
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_378.png PASperson 77 230 117 357 PASperson 114 220 155 357 PASperson 285 229 328 341 PASperson 350 235 390 335 PASperson 452 227 491 323 PASperson 182 230 227 328 PASperson 8 218 48 353 PASperson 492 227 531 319
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_286.png PASperson 368 130 422 268 PASperson 195 113 313 408
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001272.png PASperson 149 101 258 346
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop_000606.png PASperson 164 127 243 379 PASperson 227 113 313 356
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_002.png PASperson 169 93 291 421 PASperson 25 118 67 243
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_327.png PASperson 218 109 281 330
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001148.png PASperson 162 75 217 200
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001837.png PASperson 131 108 293 389
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_132.png PASperson 388 167 487 403 PASperson 281 194 328 389 PASperson 315 198 364 380 PASperson 186 177 221 293
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_172.png PASperson 375 183 454 374 PASperson 292 180 363 376 PASperson 241 184 290 325
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_289.png PASperson 334 174 397 419 PASperson 269 165 343 440
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_243.png PASperson 118 139 200 423 PASperson 177 134 271 421
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_165.png PASperson 276 203 348 362
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001111.png PASperson 214 256 280 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_010.png PASperson 264 107 379 352 PASperson 558 94 599 196
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001205.png PASperson 242 160 342 416 PASperson 316 181 445 391
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_377.png PASperson 326 193 389 359 PASperson 448 194 483 304 PASperson 24 213 69 330 PASperson 63 207 100 327 PASperson 408 201 444 308
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001242.png PASperson 219 176 408 791
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_175.png PASperson 185 151 243 323 PASperson 548 132 615 325 PASperson 467 151 514 301 PASperson 107 142 165 326 PASperson 356 137 402 302
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001268.png PASperson 206 122 288 318 PASperson 125 122 182 267 PASperson 328 127 389 271 PASperson 392 126 469 305 PASperson 491 141 528 293
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001019.png PASperson 155 168 512 948
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001505.png PASperson 769 326 845 605 PASperson 564 261 681 807 PASperson 498 338 594 799 PASperson 338 350 425 741 PASperson 152 327 226 628
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001059.png PASperson 160 243 395 812
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001627.png PASperson 326 225 459 798
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001564.png PASperson 178 145 264 400 PASperson 454 202 551 454
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001691.png PASperson 197 237 296 515 PASperson 303 132 362 353 PASperson 410 45 486 250
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001663.png PASperson 276 167 361 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001009.png PASperson 195 154 297 468
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001022.png PASperson 275 259 501 759
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_224.png PASperson 237 111 319 438 PASperson 318 139 382 394 PASperson 367 125 472 410 PASperson 471 169 551 390
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001823.png PASperson 94 84 134 194
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001619.png PASperson 166 321 266 781 PASperson 359 299 451 562 PASperson 794 323 856 536 PASperson 712 316 763 532
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001605.png PASperson 179 178 239 353
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_102.png PASperson 162 59 324 448 PASperson 36 101 103 277
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001500.png PASperson 104 108 151 232
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001548.png PASperson 112 104 139 176
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001045.png PASperson 161 172 204 306
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001687.png PASperson 160 130 328 749
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_176.png PASperson 356 103 477 424 PASperson 243 112 346 421 PASperson 160 146 208 265 PASperson 69 139 114 261 PASperson 19 140 60 259
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001005.png PASperson 268 186 457 941 PASperson 344 133 635 939
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001824.png PASperson 329 149 359 231
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001838.png PASperson 536 133 594 404 PASperson 229 130 273 375 PASperson 72 144 119 368
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_138.png PASperson 322 171 388 342 PASperson 448 160 478 235
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001018.png PASperson 197 194 484 966
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_039.png PASperson 240 99 323 390 PASperson 176 100 249 376
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001075.png PASperson 169 285 230 474 PASperson 214 208 321 588
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_160.png PASperson 218 137 337 413 PASperson 57 123 186 434 PASperson 345 125 454 414
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001162.png PASperson 116 90 191 340 PASperson 192 97 264 346 PASperson 259 108 315 286
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_131.png PASperson 215 176 282 384 PASperson 293 172 360 363 PASperson 383 167 428 341
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001044.png PASperson 186 135 243 325
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001276.png PASperson 209 171 430 858
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop_000607.png PASperson 225 93 416 638 PASperson 572 64 774 704
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_130.png PASperson 297 84 394 412
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001046.png PASperson 163 137 257 350
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_187.png PASperson 292 219 340 415 PASperson 344 232 405 426 PASperson 406 266 458 432 PASperson 483 209 563 401
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_298.png PASperson 249 155 333 426 PASperson 341 224 410 399
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001601.png PASperson 75 239 222 773
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001087.png PASperson 105 247 223 571
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001155.png PASperson 247 169 418 947
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001690.png PASperson 261 216 353 507 PASperson 351 176 452 451 PASperson 540 207 637 485 PASperson 591 22 668 228
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001124.png PASperson 223 186 366 554 PASperson 373 221 474 550
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_349.png PASperson 455 92 585 475 PASperson 339 103 432 463 PASperson 38 130 122 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001054.png PASperson 279 197 401 466 PASperson 217 223 255 326
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001230.png PASperson 210 191 362 630
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001709.png PASperson 264 111 308 213 PASperson 70 96 122 190
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001808.png PASperson 183 206 277 534
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_291.png PASperson 226 144 346 475 PASperson 333 146 431 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_166.png PASperson 332 104 449 385
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001632.png PASperson 166 144 226 319
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001050.png PASperson 432 272 561 765 PASperson 218 296 363 732 PASperson 199 280 248 446 PASperson 153 286 207 443 PASperson 380 320 434 481
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_155.png PASperson 208 37 466 473
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_124.png PASperson 253 71 321 266
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_342.png PASperson 219 187 308 412
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_129.png PASperson 321 159 385 360 PASperson 260 165 311 363 PASperson 169 210 232 358
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001057.png PASperson 246 189 320 438
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_221.png PASperson 322 141 407 357
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001053.png PASperson 209 250 447 931
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_229.png PASperson 353 87 473 477 PASperson 222 91 334 477 PASperson 324 100 363 241
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001833.png PASperson 118 87 156 188
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001098.png PASperson 319 175 386 383
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001030.png PASperson 306 235 403 678 PASperson 577 262 682 605
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001839.png PASperson 385 134 487 439 PASperson 43 137 106 368
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_050.png PASperson 332 95 451 418 PASperson 87 109 119 199
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001099.png PASperson 175 226 414 799 PASperson 61 414 183 824
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_150.png PASperson 237 167 307 362 PASperson 369 190 429 345 PASperson 315 171 382 367
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop_000603.png PASperson 85 41 282 634
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001671.png PASperson 273 296 458 784
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001024.png PASperson 316 359 531 968
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001109.png PASperson 222 130 312 423
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001213.png PASperson 155 237 433 838
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001121.png PASperson 194 211 240 353 PASperson 245 164 322 362 PASperson 343 160 419 357
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop_000010.png PASperson 194 127 413 647
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001720.png PASperson 164 367 229 569 PASperson 254 378 328 577 PASperson 204 388 247 505
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001270.png PASperson 199 158 326 399 PASperson 310 214 458 519
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_346.png PASperson 209 160 301 409
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_125.png PASperson 196 128 267 336 PASperson 330 146 382 288 PASperson 458 132 549 408 PASperson 79 145 117 255
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001023.png PASperson 257 218 512 850 PASperson 605 234 810 879
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001220.png PASperson 241 193 339 530
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001655.png PASperson 435 255 523 512 PASperson 347 270 431 508 PASperson 217 265 275 436 PASperson 80 258 122 392
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001163.png PASperson 12 94 113 371
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001518.png PASperson 183 231 270 542
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001608.png PASperson 370 320 452 691
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_114.png PASperson 31 32 244 632 PASperson 240 81 391 636
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001063.png PASperson 198 237 325 808 PASperson 151 315 210 537 PASperson 95 292 153 532 PASperson 310 310 371 545
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001095.png PASperson 383 225 562 750 PASperson 162 156 376 850
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001235.png PASperson 171 187 462 722
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_244.png PASperson 220 110 301 407 PASperson 297 64 425 444
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_292.png PASperson 273 164 377 426 PASperson 249 165 293 330
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001127.png PASperson 366 175 459 423 PASperson 283 186 350 374 PASperson 192 152 275 468
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_357.png PASperson 347 184 401 375 PASperson 398 201 468 388
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001273.png PASperson 587 131 700 475 PASperson 228 109 354 421
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001543.png PASperson 150 137 182 224 PASperson 289 127 319 188
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_240.png PASperson 204 102 337 461 PASperson 319 78 444 446
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_074.png PASperson 314 124 357 294
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001001.png PASperson 261 109 511 705 PASperson 31 326 209 712 PASperson 148 179 290 641
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_319.png PASperson 280 188 352 388 PASperson 168 161 214 337 PASperson 564 171 597 278 PASperson 594 168 634 270
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_031.png PASperson 304 165 390 329
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001579.png PASperson 93 84 182 301
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_044.png PASperson 16 148 68 282 PASperson 292 115 381 406
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001029.png PASperson 299 307 506 743
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001200.png PASperson 245 191 435 813
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_199.png PASperson 131 185 215 401 PASperson 213 173 277 388 PASperson 288 171 359 396 PASperson 348 182 402 385 PASperson 523 174 577 292 PASperson 387 189 436 348
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001039.png PASperson 419 320 561 788 PASperson 266 304 408 794
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_220.png PASperson 233 117 279 269 PASperson 307 117 366 262
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001073.png PASperson 76 211 241 732 PASperson 239 178 289 334
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001263.png PASperson 128 152 303 642 PASperson 115 118 178 269
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001506.png PASperson 218 183 355 642
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001550.png PASperson 414 254 507 685 PASperson 528 177 728 597
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001047.png PASperson 216 194 274 376
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001597.png PASperson 296 230 460 685
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001603.png PASperson 289 356 411 770
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001623.png PASperson 612 236 780 852 PASperson 499 234 618 688 PASperson 305 257 497 860
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_274.png PASperson 292 145 360 378 PASperson 435 122 584 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001843.png PASperson 443 177 503 413
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001016.png PASperson 282 330 426 696
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_334.png PASperson 281 82 398 473 PASperson 160 88 297 470 PASperson 389 126 450 403
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001532.png PASperson 517 284 660 794 PASperson 307 304 449 734
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001567.png PASperson 95 98 161 245
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_017.png PASperson 281 185 321 301
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_146.png PASperson 240 111 328 429 PASperson 321 246 391 425
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001637.png PASperson 350 314 434 557 PASperson 439 282 493 453 PASperson 532 278 643 638
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_013.png PASperson 37 144 96 373 PASperson 284 131 340 312 PASperson 527 152 619 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_223.png PASperson 199 60 346 438 PASperson 350 60 486 406
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001842.png PASperson 247 177 301 315 PASperson 296 194 345 329
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001267.png PASperson 179 140 230 340 PASperson 350 150 406 342 PASperson 511 169 569 341 PASperson 111 167 158 322 PASperson 227 156 275 293
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_214.png PASperson 395 133 492 435 PASperson 183 129 273 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001097.png PASperson 315 148 388 375 PASperson 223 144 292 364 PASperson 473 167 529 356
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001563.png PASperson 170 163 260 420 PASperson 279 157 365 418 PASperson 458 155 543 428 PASperson 590 146 670 426
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001677.png PASperson 133 119 173 221
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_341.png PASperson 237 62 364 439 PASperson 167 101 263 373
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001110.png PASperson 216 284 262 476 PASperson 249 287 325 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_021.png PASperson 278 166 367 372
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_168.png PASperson 246 207 291 323 PASperson 314 195 360 324
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001712.png PASperson 418 263 515 600 PASperson 220 359 335 689
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_128.png PASperson 254 216 328 394 PASperson 349 123 439 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001201.png PASperson 236 279 349 673
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001151.png PASperson 283 241 477 807
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_259.png PASperson 338 172 392 336 PASperson 267 170 329 336 PASperson 183 179 222 329 PASperson 228 183 278 328
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_124.png PASperson 280 165 344 327 PASperson 17 176 56 289
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001091.png PASperson 286 189 456 804
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001666.png PASperson 197 347 326 692 PASperson 437 357 555 693
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001256.png PASperson 207 149 333 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_294.png PASperson 272 171 366 410
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_331.png PASperson 294 143 353 326 PASperson 391 142 448 281 PASperson 154 65 286 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001211.png PASperson 225 215 475 810
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_111.png PASperson 154 127 329 591 PASperson 30 143 125 445
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_195.png PASperson 321 165 399 375 PASperson 264 188 319 376 PASperson 65 172 115 360 PASperson 24 179 78 344
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_125.png PASperson 96 99 218 630 PASperson 275 79 422 637
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_173.png PASperson 384 131 471 425 PASperson 302 136 390 409
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001516.png PASperson 348 208 497 806
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001216.png PASperson 185 104 346 568
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001020.png PASperson 270 264 470 932
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_301.png PASperson 274 156 341 410
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_117.png PASperson 170 153 333 570
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001231.png PASperson 196 168 342 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001088.png PASperson 230 182 438 945
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_285.png PASperson 268 171 348 370
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001234.png PASperson 187 173 320 528
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001028.png PASperson 286 277 561 929
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001708.png PASperson 171 201 322 720 PASperson 105 190 180 434
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_241.png PASperson 216 87 332 423 PASperson 359 95 459 420
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001156.png PASperson 186 203 358 785
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001662.png PASperson 222 221 271 339 PASperson 98 206 151 332 PASperson 187 213 228 337
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001079.png PASperson 364 349 441 575 PASperson 351 200 411 371 PASperson 164 180 319 596 PASperson 282 220 332 361 PASperson 314 205 356 307 PASperson 436 218 469 307
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001507.png PASperson 437 303 556 778 PASperson 234 298 360 752 PASperson 363 235 486 699
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_091.png PASperson 115 185 153 286 PASperson 357 179 409 351 PASperson 187 181 287 484 PASperson 23 189 54 283
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001584.png PASperson 297 121 504 836 PASperson 58 74 253 827
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001072.png PASperson 262 253 421 813 PASperson 403 332 564 811 PASperson 480 301 639 808 PASperson 606 278 719 786 PASperson 681 274 794 764 PASperson 815 277 955 765
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001818.png PASperson 61 152 119 326
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001113.png PASperson 217 260 376 745 PASperson 152 39 214 212 PASperson 430 64 481 211
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001594.png PASperson 438 186 541 531 PASperson 315 228 391 504 PASperson 227 222 311 502 PASperson 97 182 149 358 PASperson 16 193 73 348
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001102.png PASperson 98 191 237 572 PASperson 213 182 279 380 PASperson 339 179 438 424 PASperson 427 187 514 423 PASperson 514 186 587 402 PASperson 582 180 648 433 PASperson 623 159 705 430
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001248.png PASperson 198 194 462 729
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001530.png PASperson 377 180 447 359
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001503.png PASperson 201 141 256 264
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_117.png PASperson 150 104 321 571 PASperson 96 123 133 213
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_121.png PASperson 291 104 366 344 PASperson 387 121 454 364
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001606.png PASperson 180 130 217 280
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001086.png PASperson 210 266 403 786 PASperson 127 276 230 647
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_030.png PASperson 329 131 436 394 PASperson 249 156 310 296
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_239.png PASperson 276 84 388 429 PASperson 205 81 293 441
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_143.png PASperson 539 173 602 353 PASperson 273 174 320 301
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001011.png PASperson 164 176 433 784 PASperson 530 167 760 773
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001657.png PASperson 371 145 441 380 PASperson 155 149 236 373
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001562.png PASperson 68 60 103 155 PASperson 195 82 227 161
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001650.png PASperson 328 173 389 316
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_181.png PASperson 371 172 463 375 PASperson 281 178 333 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001572.png PASperson 65 179 104 300
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001642.png PASperson 489 261 606 691 PASperson 248 219 391 704 PASperson 940 270 1062 700
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001264.png PASperson 307 122 477 787 PASperson 122 156 322 685
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001554.png PASperson 207 184 291 497
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001158.png PASperson 68 90 127 336 PASperson 143 84 205 225
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_300.png PASperson 252 106 378 402 PASperson 338 70 375 187
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001031.png PASperson 313 250 456 656
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001094.png PASperson 257 250 374 674 PASperson 405 252 545 674 PASperson 524 255 611 494 PASperson 130 278 207 472 PASperson 579 260 664 496
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_061.png PASperson 210 168 275 365
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001609.png PASperson 255 174 310 309 PASperson 309 188 344 310 PASperson 408 112 434 185 PASperson 511 118 536 191
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001133.png PASperson 221 184 294 402
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_142.png PASperson 125 204 209 398 PASperson 266 14 386 417
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001104.png PASperson 198 279 360 682 PASperson 366 414 432 670 PASperson 88 235 247 653
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_228.png PASperson 229 103 309 403 PASperson 290 104 397 436 PASperson 133 98 178 206
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001060.png PASperson 165 276 437 971
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_203.png PASperson 189 198 223 311 PASperson 468 203 509 312 PASperson 350 206 387 310 PASperson 233 200 261 307
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001142.png PASperson 208 183 285 480
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_177.png PASperson 240 126 310 399 PASperson 331 139 408 388 PASperson 530 152 568 283
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_166.png PASperson 345 159 413 372 PASperson 244 156 329 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001081.png PASperson 156 138 218 358 PASperson 145 50 172 156 PASperson 202 51 239 152
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_011.png PASperson 337 185 384 297 PASperson 398 187 431 281 PASperson 284 191 323 296
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001508.png PASperson 425 260 550 722 PASperson 316 283 426 681
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001538.png PASperson 485 176 561 407 PASperson 180 214 338 622
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001581.png PASperson 263 184 454 869
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001004.png PASperson 328 135 510 717 PASperson 467 185 581 739
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001253.png PASperson 206 167 388 852
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001558.png PASperson 308 273 354 408 PASperson 373 295 422 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001809.png PASperson 313 199 380 482 PASperson 258 221 331 478 PASperson 141 232 217 490
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001570.png PASperson 261 172 368 437 PASperson 125 184 193 352
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001140.png PASperson 175 222 292 619
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_097.png PASperson 267 86 386 566 PASperson 78 139 244 570
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001806.png PASperson 200 143 279 424 PASperson 307 165 364 402 PASperson 125 182 198 403 PASperson 481 183 521 319
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001271.png PASperson 182 87 251 288 PASperson 144 104 182 259
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001055.png PASperson 111 240 227 537
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001092.png PASperson 247 178 471 896
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001509.png PASperson 390 278 535 753
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001064.png PASperson 147 143 247 476 PASperson 293 182 403 499 PASperson 439 139 560 488 PASperson 584 128 710 510
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001517.png PASperson 222 154 417 814 PASperson 71 223 158 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_078.png PASperson 267 58 400 344
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001559.png PASperson 635 150 773 544 PASperson 516 180 614 544 PASperson 395 199 525 559 PASperson 306 184 419 534 PASperson 177 166 303 476 PASperson 120 148 186 379
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001667.png PASperson 169 190 410 748
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001040.png PASperson 222 164 329 545
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001628.png PASperson 126 164 247 661
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001002.png PASperson 270 242 704 901 PASperson 570 174 959 957
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001232.png PASperson 204 182 507 849
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001051.png PASperson 214 267 363 638 PASperson 152 268 257 495
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_020.png PASperson 370 198 446 401 PASperson 302 174 347 322 PASperson 347 181 382 314
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001241.png PASperson 216 157 343 479
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_137.png PASperson 340 125 421 414 PASperson 243 155 344 414 PASperson 568 148 613 289 PASperson 83 157 120 301 PASperson 171 144 214 271 PASperson 115 156 153 271
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001114.png PASperson 438 236 597 787 PASperson 275 303 443 710 PASperson 653 246 834 774
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001678.png PASperson 145 93 182 192
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_026.png PASperson 571 172 622 306 PASperson 346 169 421 423
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001714.png PASperson 158 278 246 683
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_169.png PASperson 278 131 393 399 PASperson 179 126 275 408
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_288.png PASperson 196 154 268 423 PASperson 263 144 353 413
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_127.png PASperson 322 67 432 419 PASperson 253 223 335 429
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_008.png PASperson 228 162 288 372 PASperson 290 156 373 387
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001829.png PASperson 302 161 341 279
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001836.png PASperson 463 157 575 647 PASperson 559 150 663 669 PASperson 259 126 366 644 PASperson 365 124 495 652
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_344.png PASperson 73 77 163 366
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_333.png PASperson 217 168 283 334 PASperson 297 173 353 285 PASperson 177 190 237 333 PASperson 367 170 413 280
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001049.png PASperson 172 123 212 214
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001137.png PASperson 225 204 328 606
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_257.png PASperson 353 186 407 358 PASperson 273 188 330 360
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001259.png PASperson 157 138 370 631
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001089.png PASperson 251 217 460 828
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop_000608.png PASperson 124 125 248 389
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001615.png PASperson 237 270 337 557
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001697.png PASperson 67 198 265 759
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_015.png PASperson 346 116 420 363
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001150.png PASperson 168 112 204 239
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001056.png PASperson 173 176 224 306 PASperson 253 179 304 313
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001534.png PASperson 643 259 705 472 PASperson 295 278 487 756 PASperson 575 282 616 412
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_174.png PASperson 318 103 424 371 PASperson 169 184 241 372 PASperson 427 225 499 367
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001694.png PASperson 555 302 705 765 PASperson 482 225 593 631 PASperson 267 360 458 797
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001629.png PASperson 451 219 558 691 PASperson 352 225 469 652 PASperson 640 280 726 635
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001038.png PASperson 679 332 801 676 PASperson 368 415 539 641 PASperson 267 357 383 640 PASperson 161 344 267 651
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001647.png PASperson 253 171 306 296 PASperson 210 170 254 300
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_425.png PASperson 66 75 111 239 PASperson 177 79 219 199 PASperson 125 90 165 196
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_112.png PASperson 268 98 417 635 PASperson 198 133 299 571 PASperson 11 96 164 603
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001037.png PASperson 263 196 448 770
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001058.png PASperson 284 249 518 905
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001589.png PASperson 80 222 235 818
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001252.png PASperson 154 134 310 488
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_034.png PASperson 296 173 359 327
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001265.png PASperson 258 115 327 349 PASperson 389 115 435 292 PASperson 170 117 223 261 PASperson 224 99 274 282
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001278.png PASperson 44 121 104 254
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001648.png PASperson 465 247 555 530 PASperson 245 259 304 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001043.png PASperson 145 201 312 866
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_245.png PASperson 107 55 256 434 PASperson 236 177 332 425
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001620.png PASperson 474 234 529 454 PASperson 160 251 225 470 PASperson 680 235 730 411 PASperson 629 255 673 407 PASperson 452 269 487 399 PASperson 573 261 606 361 PASperson 92 279 125 388 PASperson 31 297 65 394
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001689.png PASperson 41 154 204 748 PASperson 152 102 319 676 PASperson 263 109 424 650
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_348.png PASperson 230 153 287 312 PASperson 67 152 117 314 PASperson 321 165 375 325 PASperson 133 169 173 283
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_281.png PASperson 291 138 382 396 PASperson 197 141 251 322
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001212.png PASperson 177 208 391 653
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_133.png PASperson 335 152 400 370 PASperson 93 231 146 376 PASperson 237 178 310 371
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001811.png PASperson 138 171 251 551
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001814.png PASperson 88 89 131 201
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001048.png PASperson 250 207 362 515
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001143.png PASperson 204 120 282 473 PASperson 131 109 219 413 PASperson 67 80 146 320 PASperson 301 163 397 518 PASperson 425 154 509 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_167.png PASperson 304 159 383 364 PASperson 259 178 321 359
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001591.png PASperson 215 122 413 912 PASperson 28 191 167 573
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_211.png PASperson 397 160 469 413
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_297.png PASperson 317 154 390 419 PASperson 270 160 339 393 PASperson 203 150 273 403 PASperson 3 180 55 310
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_170.png PASperson 431 149 496 377 PASperson 206 155 298 391
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001108.png PASperson 171 177 288 448
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_185.png PASperson 389 172 458 379 PASperson 312 184 371 393 PASperson 228 201 278 367
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001595.png PASperson 122 145 157 240
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001096.png PASperson 192 209 327 591
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001640.png PASperson 286 165 500 806
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001717.png PASperson 209 120 274 310
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_036.png PASperson 355 179 393 297
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_119.png PASperson 238 99 353 446
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001120.png PASperson 220 153 275 322 PASperson 264 153 316 332 PASperson 347 156 415 325 PASperson 409 180 467 336
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_252.png PASperson 391 137 481 430 PASperson 214 171 293 425
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_256.png PASperson 321 100 443 432
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001551.png PASperson 177 208 313 661 PASperson 453 198 615 637
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001817.png PASperson 126 131 180 293
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001222.png PASperson 257 174 395 729 PASperson 148 130 244 325
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001052.png PASperson 165 171 246 362
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001078.png PASperson 178 120 272 362 PASperson 269 132 345 359 PASperson 368 121 410 245
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001103.png PASperson 237 194 317 401
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_148.png PASperson 152 134 290 469 PASperson 366 123 452 401 PASperson 494 118 556 322 PASperson 555 115 607 262 PASperson 307 122 344 223
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_275.png PASperson 269 184 346 399
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001577.png PASperson 163 32 419 863
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_231.png PASperson 355 97 461 452 PASperson 261 61 375 471 PASperson 116 105 205 433
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_118.png PASperson 121 63 298 631
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001202.png PASperson 180 214 401 818
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_123.png PASperson 326 167 398 343
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001071.png PASperson 215 250 373 652
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001652.png PASperson 64 167 235 780
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001807.png PASperson 258 156 302 321 PASperson 219 152 274 318
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001115.png PASperson 236 123 283 305 PASperson 170 160 226 304
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001247.png PASperson 193 155 390 696
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001705.png PASperson 347 227 419 532 PASperson 165 241 248 528
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_219.png PASperson 360 129 469 435 PASperson 296 187 373 425 PASperson 106 154 158 311
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001646.png PASperson 250 220 325 431 PASperson 352 208 430 418 PASperson 430 242 500 460 PASperson 592 231 646 420 PASperson 640 243 695 423
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001258.png PASperson 234 141 339 506
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001246.png PASperson 138 176 281 532
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_121.png PASperson 189 139 294 473 PASperson 149 112 180 218
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001568.png PASperson 163 196 325 707
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_242.png PASperson 233 93 357 443 PASperson 365 50 484 437
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_235.png PASperson 190 116 326 447 PASperson 356 72 490 425
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001580.png PASperson 265 241 390 779
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001582.png PASperson 231 49 427 771
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001021.png PASperson 319 119 700 817
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001085.png PASperson 172 213 260 508
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001068.png PASperson 204 171 407 587
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001006.png PASperson 374 114 616 701 PASperson 552 88 736 688
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_033.png PASperson 482 110 557 265
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_208.png PASperson 298 106 418 446 PASperson 421 91 466 235
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001034.png PASperson 312 240 475 731
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001515.png PASperson 196 206 263 406 PASperson 301 229 383 503
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_283.png PASperson 268 123 452 466
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001237.png PASperson 189 143 298 448
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_120.png PASperson 127 138 198 391 PASperson 390 133 453 421 PASperson 83 154 121 283
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_324.png PASperson 376 162 436 305 PASperson 425 162 485 313
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001105.png PASperson 199 309 274 520
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop_000011.png PASperson 146 101 376 598
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_339.png PASperson 52 153 156 422 PASperson 177 150 233 305 PASperson 205 141 263 289
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_139.png PASperson 257 136 364 410 PASperson 223 208 255 311
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001528.png PASperson 265 249 403 762
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001070.png PASperson 232 179 432 788
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001527.png PASperson 239 280 334 611 PASperson 736 294 816 545 PASperson 477 315 573 613 PASperson 352 284 418 482
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001206.png PASperson 168 154 276 550
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001250.png PASperson 286 116 545 803
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001571.png PASperson 222 199 299 410 PASperson 44 188 92 318 PASperson 364 202 456 446 PASperson 447 203 546 567 PASperson 339 197 393 372 PASperson 87 190 118 276
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001669.png PASperson 347 99 381 173 PASperson 578 243 619 332
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_299.png PASperson 192 123 284 464 PASperson 313 215 391 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001015.png PASperson 241 330 400 661
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_157.png PASperson 320 76 451 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001540.png PASperson 441 258 530 543 PASperson 228 245 302 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001679.png PASperson 818 311 982 800 PASperson 559 295 696 687 PASperson 234 271 362 639 PASperson 168 276 246 518 PASperson 473 314 594 641
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001014.png PASperson 335 306 510 726
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001812.png PASperson 288 153 363 366 PASperson 174 188 219 344
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001153.png PASperson 272 254 320 406
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_356.png PASperson 161 120 289 589
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_162.png PASperson 309 153 417 424 PASperson 203 155 298 422
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_253.png PASperson 332 144 457 437 PASperson 139 121 207 358 PASperson 254 134 322 343 PASperson 206 178 267 364 PASperson 83 139 118 236
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001132.png PASperson 200 230 457 933
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_343.png PASperson 203 189 274 362
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001007.png PASperson 235 236 399 724 PASperson 380 207 550 724 PASperson 548 222 729 739 PASperson 723 279 925 754 PASperson 889 292 1097 765
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001832.png PASperson 66 84 103 193
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_126.png PASperson 188 102 348 522 PASperson 63 172 115 304 PASperson 127 155 174 300
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_234.png PASperson 236 170 301 361 PASperson 332 161 409 358 PASperson 115 166 176 329
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001703.png PASperson 356 286 482 752 PASperson 221 295 342 740
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_196.png PASperson 330 74 448 397 PASperson 196 97 286 387
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001036.png PASperson 232 277 394 733
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_151.png PASperson 323 117 398 344 PASperson 169 119 249 295
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001813.png PASperson 131 112 171 227
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_134.png PASperson 247 121 337 421 PASperson 336 108 416 413 PASperson 112 125 197 380 PASperson 509 125 553 244 PASperson 432 143 465 243
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001599.png PASperson 224 229 411 814 PASperson 431 296 478 456
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_003.png PASperson 184 159 301 474
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_295.png PASperson 251 139 339 398
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001613.png PASperson 328 190 431 491
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001649.png PASperson 541 314 671 760 PASperson 119 315 223 634 PASperson 465 270 498 368 PASperson 379 273 441 448
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001066.png PASperson 237 178 420 649
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001560.png PASperson 500 240 621 555 PASperson 300 306 373 528 PASperson 198 295 265 530 PASperson 303 302 373 531 PASperson 730 339 808 548
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_202.png PASperson 201 110 276 376 PASperson 431 150 508 371 PASperson 354 106 405 269 PASperson 539 108 594 255 PASperson 275 115 313 240
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_258.png PASperson 369 172 424 324
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001154.png PASperson 281 161 619 967
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001010.png PASperson 153 204 421 726
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001699.png PASperson 204 200 363 754
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001012.png PASperson 311 274 511 760
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001614.png PASperson 557 353 620 580 PASperson 673 366 763 639 PASperson 470 354 533 574 PASperson 377 365 468 627 PASperson 348 455 400 634 PASperson 214 343 275 521 PASperson 767 349 793 427 PASperson 820 349 845 428
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_119.png PASperson 163 165 292 504
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001128.png PASperson 164 212 451 780
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001624.png PASperson 180 200 262 491 PASperson 255 200 304 382
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_376.png PASperson 201 186 261 332 PASperson 277 194 326 328 PASperson 374 181 420 300
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_225.png PASperson 211 61 327 432 PASperson 403 59 522 441 PASperson 59 17 180 355
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_304.png PASperson 300 85 413 459 PASperson 56 73 163 317 PASperson 131 68 198 290
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001027.png PASperson 205 227 670 824
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001835.png PASperson 216 181 399 780 PASperson 358 136 517 802
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_270.png PASperson 345 91 462 475 PASperson 214 67 328 475
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001122.png PASperson 267 193 339 406 PASperson 206 194 269 401
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001611.png PASperson 339 362 428 685 PASperson 254 386 325 663
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_179.png PASperson 278 137 406 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_023.png PASperson 296 138 399 396
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001841.png PASperson 426 148 500 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001672.png PASperson 255 267 421 776
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001025.png PASperson 287 297 509 755
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001612.png PASperson 427 284 512 584 PASperson 299 272 412 580 PASperson 569 290 651 517 PASperson 426 288 516 583
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001218.png PASperson 104 240 223 585
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001618.png PASperson 260 261 373 708
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001630.png PASperson 134 81 183 207
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_269.png PASperson 149 65 272 461 PASperson 262 60 372 425 PASperson 364 75 463 441 PASperson 443 79 591 477
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001529.png PASperson 371 184 509 639 PASperson 504 185 562 445 PASperson 584 176 624 371
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_328.png PASperson 94 227 136 350
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001556.png PASperson 190 130 252 326
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001810.png PASperson 219 259 301 587
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_156.png PASperson 336 201 425 399 PASperson 245 187 330 424
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001106.png PASperson 217 218 416 664
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001208.png PASperson 175 145 263 406 PASperson 358 168 517 618 PASperson 288 126 356 255
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_005.png PASperson 175 192 231 356
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001074.png PASperson 165 203 234 420 PASperson 210 207 292 433 PASperson 281 272 341 481 PASperson 349 314 395 466 PASperson 396 206 467 449 PASperson 433 231 511 463 PASperson 511 204 563 333
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_208.png PASperson 247 104 411 388
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_019.png PASperson 247 38 401 414
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001830.png PASperson 191 170 238 321
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_260.png PASperson 336 180 388 311 PASperson 287 192 335 315
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001519.png PASperson 227 224 414 765
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001042.png PASperson 337 224 475 868 PASperson 224 192 315 710
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001686.png PASperson 73 103 101 169
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_156.png PASperson 368 119 442 325
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_238.png PASperson 336 93 462 423 PASperson 190 123 283 415
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001093.png PASperson 467 190 664 806 PASperson 296 298 474 852 PASperson 170 224 337 792
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001214.png PASperson 223 211 317 479
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001149.png PASperson 234 189 354 582 PASperson 122 173 224 553
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_007.png PASperson 248 44 359 407
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001592.png PASperson 120 192 187 398 PASperson 421 207 487 398 PASperson 282 197 350 392
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001713.png PASperson 62 230 254 798
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_086.png PASperson 229 148 331 488
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001131.png PASperson 188 244 427 801
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_022.png PASperson 295 186 380 387
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001219.png PASperson 166 145 256 454
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001135.png PASperson 148 138 215 331
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001656.png PASperson 397 180 457 366
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001130.png PASperson 190 200 407 883
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_201.png PASperson 309 218 349 342
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_075.png PASperson 203 73 315 420
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001542.png PASperson 244 193 325 469
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_103.png PASperson 220 222 276 377
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001116.png PASperson 371 157 438 315 PASperson 179 172 223 321
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001112.png PASperson 283 210 322 310 PASperson 233 204 273 308
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001820.png PASperson 170 155 246 453
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001816.png PASperson 231 192 314 487
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001695.png PASperson 140 151 199 344
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001274.png PASperson 179 212 282 612
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001552.png PASperson 197 266 313 646 PASperson 387 248 522 647 PASperson 510 262 630 646 PASperson 649 223 774 648
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001692.png PASperson 51 207 157 556 PASperson 188 292 291 649
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001013.png PASperson 234 169 554 853
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001701.png PASperson 247 200 375 648
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_329.png PASperson 430 117 503 324
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001083.png PASperson 261 226 382 673 PASperson 146 236 217 408 PASperson 55 241 110 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001621.png PASperson 473 134 539 353 PASperson 211 172 272 402
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_266.png PASperson 99 66 239 462 PASperson 549 96 603 307
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001541.png PASperson 308 298 448 775 PASperson 450 316 519 570
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001032.png PASperson 322 226 529 785
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_320.png PASperson 324 145 456 475 PASperson 263 123 360 429 PASperson 477 127 515 227
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001090.png PASperson 327 259 501 771
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_305.png PASperson 278 179 340 351 PASperson 169 188 258 435
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001210.png PASperson 154 148 300 542
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001141.png PASperson 421 210 544 748 PASperson 189 223 349 738 PASperson 129 240 184 415 PASperson 591 195 712 577
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001164.png PASperson 166 217 242 483 PASperson 325 249 391 463 PASperson 240 248 288 408 PASperson 387 246 540 652 PASperson 642 222 776 605 PASperson 785 205 925 594 PASperson 523 247 599 454 PASperson 109 253 147 355
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001525.png PASperson 456 223 514 403 PASperson 298 216 396 570 PASperson 226 223 293 486
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_152.png PASperson 224 132 280 311 PASperson 164 107 218 257
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001119.png PASperson 80 165 118 265
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001217.png PASperson 147 153 315 557 PASperson 114 127 161 270 PASperson 52 124 107 254
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001251.png PASperson 220 73 492 845
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_016.png PASperson 93 164 143 310 PASperson 23 165 59 289 PASperson 298 145 360 334 PASperson 60 160 103 286
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001665.png PASperson 200 292 335 687
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_237.png PASperson 312 123 403 407 PASperson 224 140 322 407 PASperson 503 129 535 223 PASperson 453 138 487 226
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001134.png PASperson 180 174 292 473
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_358.png PASperson 245 220 310 357
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_279.png PASperson 468 203 523 365 PASperson 266 226 323 401 PASperson 192 179 245 326 PASperson 124 186 172 306
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001147.png PASperson 154 135 303 460
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_060.png PASperson 289 216 339 345
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001129.png PASperson 90 146 246 551
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001707.png PASperson 265 195 372 549 PASperson 400 218 479 487 PASperson 198 212 266 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001017.png PASperson 185 254 437 956
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001069.png PASperson 160 143 218 296 PASperson 95 130 153 262
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_387.png PASperson 224 152 305 425 PASperson 289 170 345 404
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_254.png PASperson 274 129 351 367 PASperson 208 110 290 386 PASperson 390 185 452 378
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001600.png PASperson 170 167 255 417
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_171.png PASperson 296 167 378 417 PASperson 209 184 288 397
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_135.png PASperson 281 117 353 366 PASperson 212 122 280 375 PASperson 400 166 452 375 PASperson 483 120 521 227
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001526.png PASperson 499 260 642 768 PASperson 311 226 467 767 PASperson 101 209 161 384
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_191.png PASperson 281 146 369 431
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001643.png PASperson 217 148 278 347
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001610.png PASperson 329 163 394 358
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_147.png PASperson 284 146 374 423 PASperson 172 157 242 411 PASperson 84 144 129 259
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001668.png PASperson 441 202 483 327 PASperson 179 153 226 273 PASperson 397 117 436 203 PASperson 283 110 328 197 PASperson 576 89 624 203
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001578.png PASperson 90 90 128 190
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001146.png PASperson 257 218 411 718
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001616.png PASperson 905 218 960 427 PASperson 666 216 758 539 PASperson 556 197 650 536 PASperson 407 253 489 589 PASperson 294 154 428 576 PASperson 181 187 288 566 PASperson 505 182 568 428 PASperson 1056 219 1094 336 PASperson 1094 221 1127 339 PASperson 1004 208 1045 330 PASperson 962 219 997 324 PASperson 857 207 892 332
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001698.png PASperson 238 153 322 412
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001160.png PASperson 96 70 159 174
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001815.png PASperson 193 127 233 240 PASperson 153 147 191 249
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_321.png PASperson 383 169 422 277 PASperson 435 165 477 283
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001569.png PASperson 242 179 445 622 PASperson 154 158 320 594 PASperson 659 159 840 685 PASperson 849 228 1048 772
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_178.png PASperson 362 159 468 398 PASperson 459 155 528 416 PASperson 165 134 256 414
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_143.png PASperson 306 64 388 379 PASperson 231 80 309 367 PASperson 98 78 214 378
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001626.png PASperson 222 191 299 423 PASperson 163 167 210 289
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001674.png PASperson 243 204 407 722
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001035.png PASperson 226 205 449 970
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001644.png PASperson 149 183 243 506
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_340.png PASperson 276 117 415 417 PASperson 168 120 280 418
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001145.png PASperson 256 174 325 420 PASperson 60 95 147 306
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001136.png PASperson 211 158 245 270 PASperson 240 163 275 273 PASperson 290 166 313 269 PASperson 312 168 337 270
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001523.png PASperson 109 136 152 292
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_414.png PASperson 274 121 337 307 PASperson 105 119 167 303 PASperson 481 108 522 225
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001513.png PASperson 258 212 390 563 PASperson 645 210 771 528
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001622.png PASperson 198 159 248 301 PASperson 237 169 286 306
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001144.png PASperson 346 167 416 374 PASperson 411 159 487 361 PASperson 316 141 371 363 PASperson 258 154 324 350 PASperson 163 152 214 350
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001598.png PASperson 315 298 433 670
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_209.png PASperson 336 112 418 316
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001711.png PASperson 295 295 397 712 PASperson 207 315 299 610 PASperson 152 278 232 529 PASperson 26 275 99 503 PASperson 114 294 172 501 PASperson 426 297 500 564 PASperson 525 291 654 654
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001536.png PASperson 248 317 319 517 PASperson 385 320 438 462 PASperson 595 322 636 459 PASperson 138 315 223 567
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001123.png PASperson 188 142 290 477 PASperson 269 141 346 482
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_009.png PASperson 311 176 394 366
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001152.png PASperson 265 187 529 947
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001236.png PASperson 136 164 237 466 PASperson 328 162 474 541 PASperson 470 167 601 474
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_395.png PASperson 150 165 198 318 PASperson 206 173 262 323 PASperson 324 202 359 287
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001840.png PASperson 353 118 405 338 PASperson 275 108 322 342
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001565.png PASperson 222 147 304 407
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_139.png PASperson 500 129 556 347 PASperson 412 114 495 347 PASperson 245 117 349 432 PASperson 156 145 259 439 PASperson 56 124 141 377
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001107.png PASperson 243 200 491 872 PASperson 515 330 672 931 PASperson 670 259 842 846
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001524.png PASperson 579 205 744 760
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001257.png PASperson 186 141 306 453
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001702.png PASperson 401 233 465 494 PASperson 310 242 394 471
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001561.png PASperson 481 254 595 575 PASperson 588 353 657 573
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_142.png PASperson 269 79 372 462 PASperson 374 80 465 452 PASperson 84 127 128 307
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001696.png PASperson 372 181 493 556 PASperson 685 212 762 588 PASperson 822 154 974 692
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001125.png PASperson 129 243 219 550 PASperson 248 216 353 550
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001617.png PASperson 320 286 407 589
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_106.png PASperson 220 270 281 404
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001721.png PASperson 93 83 133 179
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_209.png PASperson 224 148 311 385 PASperson 321 146 413 476
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_302.png PASperson 334 161 442 443 PASperson 209 158 310 465
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_and_bike_040.png PASperson 413 141 452 269 PASperson 540 149 576 283 PASperson 482 165 514 281
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001693.png PASperson 245 178 310 384 PASperson 320 228 390 436
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001636.png PASperson 609 283 699 604
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_128.png PASperson 184 104 262 321 PASperson 75 98 114 200 PASperson 359 145 429 325
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001255.png PASperson 216 168 348 546
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001625.png PASperson 139 120 180 223
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_141.png PASperson 248 125 361 363
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001033.png PASperson 317 244 607 956
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001651.png PASperson 497 280 638 721 PASperson 277 258 400 614 PASperson 439 289 523 590
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/crop001539.png PASperson 255 156 313 345
+/home/peichao/code/faster-rcnn/INRIAPerson/Train/pos/person_233.png PASperson 171 165 270 412 PASperson 427 165 500 402
