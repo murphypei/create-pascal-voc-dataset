@@ -66,7 +66,7 @@ class PASCALVOC07(object):
 
                 # a ground truth with bounding box
                 boxes = []
-                for i in range(int((len(line_split) - 1) / 5)):
+                for i in range((len(line_split) - 1) //5):
                     category = line_split[1 + i * 5 + 0]
                     x1 = line_split[1 + i * 5 + 1]
                     y1 = line_split[1 + i * 5 + 2]
