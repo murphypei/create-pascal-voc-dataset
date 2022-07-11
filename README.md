@@ -4,7 +4,7 @@ Refactor all the project ! Now it's more efficient and the structure is more cle
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[**中文版**](https://github.com/murphypei/create-pascal-voc-dataset/README_CN.md)
+[**中文版**](https://github.com/murphypei/create-pascal-voc-dataset/blob/master/README_CN.md)
 
 ### Usage
 
