@@ -10,15 +10,16 @@ def parse_annotation(inria_dir, phase, verbose=True):
     anno_dir = os.path.join(inria_dir, phase, 'annotations')
 
     image_path_tmpl = re.compile(r'Image filename : "([\w\d/_.]+)"')
-    object_box_tmpl = re.compile(r'Bounding box for object [\d]+ \"([\w]+)\"[-,\(\)\w\s]+ : \((\d+), (\d+)\) - \((\d+), (\d+)\)$')
-    
+    object_box_tmpl = re.compile(
+        r'Bounding box for object [\d]+ \"([\w]+)\"[-,\(\)\w\s]+ : \((\d+), (\d+)\) - \((\d+), (\d+)\)$')
+
     fout = open(os.path.join(inria_dir, phase, '{}_annotation.txt'.format(phase)), 'w')
-    
+
     for anno_file in os.listdir(anno_dir):
         with open(os.path.join(anno_dir, anno_file), 'r') as f:
             result = []
             for line in f:
-                line = line.strip() 
+                line = line.strip()
                 if line.startswith("Image filename"):
                     img_path = image_path_tmpl.match(line).group(1)
                     if verbose:

@@ -19,6 +19,11 @@ def copy_file(src_file, dst_dir, new_name):
         os.rename(os.path.join(dst_dir, old_name), os.path.join(dst_dir, new_name))
 
 
+def copy_file2(src_file, dst_file):
+    if os.path.isfile(src_file):
+        shutil.copy(src_file, dst_file)
+
+
 def file_count(dir):
     count = 0
     for root, dirs, files in os.walk(dir):

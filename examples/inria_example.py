@@ -19,7 +19,6 @@ config.pose = "Unspecified"
 config.database = "INRIA"
 config.depth = "3"
 
-
 if __name__ == "__main__":
 
     inria_dir = sys.argv[1]
